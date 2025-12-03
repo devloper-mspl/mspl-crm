@@ -8,7 +8,7 @@ const About = () => {
   return (
     <div>
       <Helmet>
-        <title> About | My React Website mspl</title>
+        <title> About | My React Website</title>
         <meta name="description" content="Welcome to the home page of my React app. Learn more about React, SEO, and best practices." />
       </Helmet>
       <div className="flex">
